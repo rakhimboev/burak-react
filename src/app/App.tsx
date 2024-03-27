@@ -9,7 +9,7 @@ function App() {
       <Stack flexDirection={"column"}>
         <Box sx={{ my: 4 }}>
           <Typography variant="h4" component={"h4"}>
-            Hello World
+            HELLO WORLD
           </Typography>
         </Box>
         <Box>
