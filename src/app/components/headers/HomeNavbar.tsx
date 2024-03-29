@@ -60,7 +60,23 @@ export const HomeNavbar = () => {
             )}
           </Stack>
         </Stack>
-        <Stack>other</Stack>
+        <Stack className="header-frame">
+          <Stack className="detail">
+            <Box className="head-main-txt">World's most delicious cousine</Box>
+            <Box className="wel-txt">The Choice, not just a choice</Box>
+            <Box className="service-txt">24/7 hours service</Box>
+            <Box className="signup">
+              {!authMember ? (
+                <Button variant="contained" className="signup-button">
+                  sign up
+                </Button>
+              ) : null}
+            </Box>
+          </Stack>
+          <Box className="logo-frame">
+            <div className="logo-img"></div>
+          </Box>
+        </Stack>
       </Container>
     </div>
   );
