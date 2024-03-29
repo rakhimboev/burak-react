@@ -5,11 +5,14 @@ import { OrdersPage } from "./screens/ordersPage";
 import { UserPage } from "./screens/userPage";
 import { HomePage } from "./screens/homePage";
 import { HomeNavbar } from "./components/headers/HomeNavbar";
-import { Footer } from "./components/footer";
 import { HelpPage } from "./screens/helpPage";
+import { OtherNavbar } from "./components/headers/OtherNavbar";
+import Footer from "./components/footer";
 import "../css/navbar.css";
 import "../css/app.css";
-import { OtherNavbar } from "./components/headers/OtherNavbar";
+import "../css/footer.css";
+
+
 function App() {
   const location = useLocation();
   return (
