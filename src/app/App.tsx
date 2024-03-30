@@ -4,19 +4,19 @@ import { ProductsPage } from "./screens/productsPage";
 import { OrdersPage } from "./screens/ordersPage";
 import { UserPage } from "./screens/userPage";
 import { HomePage } from "./screens/homePage";
-import { HomeNavbar } from "./components/headers/HomeNavbar";
 import { HelpPage } from "./screens/helpPage";
-import { OtherNavbar } from "./components/headers/OtherNavbar";
 import Footer from "./components/footer";
 import "../css/navbar.css";
 import "../css/app.css";
 import "../css/footer.css";
-
+import { HomeNavbar } from "./components/headers/HomeNavbar";
+import { OtherNavbar } from "./components/headers/OtherNavbar";
 
 function App() {
   const location = useLocation();
   return (
     <>
+      {/* {location.pathname === "/" ? <HomeNavbar /> : <OtherNavbar />} */}
       {location.pathname === "/" ? <HomeNavbar /> : <OtherNavbar />}
       <Switch>
         <Route path="/products">
