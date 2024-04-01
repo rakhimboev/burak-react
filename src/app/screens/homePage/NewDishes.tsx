@@ -6,7 +6,7 @@ import CardOverflow from "@mui/joy/CardOverflow";
 import Typography from "@mui/joy/Typography";
 import { CssVarsProvider } from "@mui/joy/styles";
 import VisibilityIcon from "@mui/icons-material/Visibility";
-import Divider from "../../components/divider/intex";
+import Divider from "../../components/divider";
 
 const newDishes = [
   { productName: "Cutlet", imagePath: "/img/cutlet.webp" },

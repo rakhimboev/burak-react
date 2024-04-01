@@ -1,5 +1,5 @@
 import { Box, Container, Stack } from "@mui/material";
-import Divider from "../../components/divider/intex";
+import Divider from "../../components/divider";
 
 const Statistics = () => {
   return (
