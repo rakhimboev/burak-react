@@ -1,7 +1,7 @@
 import React from "react";
 import { Route, Switch, useLocation } from "react-router-dom";
 import ProductsPage from "./screens/productsPage";
-import { UserPage } from "./screens/userPage";
+import UserPage from "./screens/userPage";
 import { HomePage } from "./screens/homePage";
 import { HelpPage } from "./screens/helpPage";
 import Footer from "./components/footer";
