@@ -32,7 +32,7 @@ class Test extends Component {
     }
 
     componentDidUpdate() {
-        //runs according to the change of assistant array in useEffect
+        //runs according to the change of array dependency in useEffect
     }
 
     render() {
