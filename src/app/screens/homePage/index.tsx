@@ -6,13 +6,33 @@ import ActiveUsers from "./ActiveUsers";
 import Events from "./Events";
 import "../../../css/home.css";
 import { useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { Dispatch } from "@reduxjs/toolkit";
+import { createSelector } from "reselect";
+import { setPopularDishes } from "./slice";
+import { retrievePopularDishes } from "./selector";
+import { Product } from "../../../lib/types/product";
+
+const actionDispatch = (dispatch: Dispatch) => ({
+  setPopularDishes: (data: Product[]) => dispatch(setPopularDishes(data)),
+});
+
+const popularDishesRetriever = createSelector(
+  retrievePopularDishes,
+  (popularDishes) => ({ popularDishes })
+);
 
 export const HomePage = () => {
+  const { setPopularDishes } = actionDispatch(useDispatch());
+  const { popularDishes } = useSelector(popularDishesRetriever);
+
   //Selector: Store => Data
   useEffect(() => {
     // backend server data request => Data
     // Slice: data => Store
+    // @ts-ignore
   }, []);
+
   return (
     <div className="homepage">
       <Statistics />
