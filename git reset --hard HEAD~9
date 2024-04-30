@@ -1,0 +1,245 @@
+[33mcommit 24be4ba9053a7b648d0f0f9cf5be0d8153abc71f[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Mon Apr 29 03:41:57 2024 -0400
+
+    feat: create useGlobal integrated with Context & develop logout process
+
+[33mcommit 9b8f5ea920a8bc7514d2485341e5c9a69de5078a[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Mon Apr 29 02:58:12 2024 -0400
+
+    feat: create login process
+
+[33mcommit 1a53ff5a5b9e96e993853cc96819618f4ce06ab8[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Mon Apr 29 02:55:37 2024 -0400
+
+    feat: create signup process
+
+[33mcommit ebb907164d65ba2a7c21ede4f4c62b99a3f9228f[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Mon Apr 29 02:46:03 2024 -0400
+
+    feat: publish authentcation modal component
+
+[33mcommit bb6a7a21a1da2bcf101af95e7ad658fe44214cc1[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Mon Apr 29 01:23:23 2024 -0400
+
+    fix: modify basket business logic via customized hooks
+
+[33mcommit 06b3fb6d2608b6a299d7de8a91192f519a620bfa[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Mon Apr 29 00:57:30 2024 -0400
+
+    feat: develop logic of adding products into basket
+
+[33mcommit e512e46be0047bbd3109a407ebc445c4c2335795[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Apr 28 23:20:41 2024 -0400
+
+    fix: modify chosenProduct component business logic
+
+[33mcommit af3c429936dffc70803fe7cb3a09063d9e20a7e8[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Apr 28 23:06:38 2024 -0400
+
+    feat: develop Products component business logic
+
+[33mcommit f9a0877d6b22d82a4592887a0cc0302662ddcb72[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Apr 28 22:58:21 2024 -0400
+
+    fix: retrieve data and modify products component
+
+[33mcommit 9c34ca5ba4ad88c329a28662a2d41efdec29dbfd[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Apr 28 22:31:09 2024 -0400
+
+    feat: develop productsPage slice and selector
+
+[33mcommit 30548019f03909d74ef422aef9c370f6cac4727f[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Apr 28 17:57:34 2024 -0400
+
+    fix retrieve topUsers and modify ActiveUsers components
+
+[33mcommit 50b4618cc1c9c0585ecbca1b07d6917e94edaca7[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Fri Apr 26 06:49:45 2024 -0400
+
+    fix: retrieve freshMenu and modify newDishes component
+
+[33mcommit 426efe65e39e5df6ac73bdffcdd9f5b726f4b84a[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Fri Apr 26 06:12:18 2024 -0400
+
+    feat: develop product service and retrieve data from back end
+
+[33mcommit 976117883cbb2b843b43dfbffc3801365c4faeff[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Thu Apr 25 21:36:29 2024 -0400
+
+    feat: create config & env variables
+
+[33mcommit 5c9dbed9647f0b8891eef73e8b393e17549317bf[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Apr 21 20:35:35 2024 -0400
+
+    feat: develop slice and selector usage
+
+[33mcommit 92174ee59a21b996f56e45d755d7791a5e85a02e[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Apr 21 19:53:43 2024 -0400
+
+    feat: middleware integration redux logger
+
+[33mcommit 696b634c8f773e17f835d3c01d18dd8f3a95fd78[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Apr 21 19:48:14 2024 -0400
+
+    feat: create HomaPage Reduc configuration
+
+[33mcommit 420a37a78ce960cedbd9750acd3ca05bea48c969[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Apr 21 10:22:31 2024 -0400
+
+    feat: develop AppRootState and HomePage type integrations
+
+[33mcommit 0121935ea09c6bcc82f68791404132996989bb55[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Wed Apr 17 21:07:53 2024 -0400
+
+    fix: modify homePage screen component
+
+[33mcommit 460998f16731027b1a945385b1ef3e13ad9a7fdf[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Tue Apr 16 21:00:12 2024 -0400
+
+    feat: practice useState & useEffect hooks
+
+[33mcommit 94c1692d09576bec0e2c374cb0470cbdb0aec660[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Fri Apr 5 01:31:31 2024 -0400
+
+    feat: publish HelpPage screen component
+
+[33mcommit a478d18d4c1b8c1d3a9c23776b9259a77c155f19[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Fri Apr 5 01:23:41 2024 -0400
+
+    feat: publish UserPage screen component
+
+[33mcommit 8f285da03f3f367e23f7d660372dc014cdd0513e[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Fri Apr 5 01:10:46 2024 -0400
+
+    feat: publish OrderPage screen component
+
+[33mcommit fdda44fcea4a182c8643fdee7d0b8de8f37df003[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Wed Apr 3 05:45:00 2024 -0400
+
+    feat: publish ChosenProduct sectional component
+
+[33mcommit be96a072be9c9f2a6cee0ecfdb36496da3f71292[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Wed Apr 3 01:28:35 2024 -0400
+
+    feat: publish ChosenProduct sectional component
+
+[33mcommit df00bd007537034529d0d57133936ac5a37ebe13[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Mar 31 23:32:51 2024 -0400
+
+    feat: develop Events sectional component
+
+[33mcommit ebc4fc05a94270a4aec4a1f11a2c997f0c134efa[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Mar 31 23:24:18 2024 -0400
+
+    feat: develop ActiveUsers sectional component
+
+[33mcommit 4f745584246af8f18f94f42e9b90cb88ca71912e[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Mar 31 23:19:27 2024 -0400
+
+    feat: develop advertisemet sectional component
+
+[33mcommit 3e9ee86f497f5168b98cab53a463b566650fd2b8[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Mar 31 23:10:31 2024 -0400
+
+    fix: modify NewDishes and PopularDishes components
+
+[33mcommit 1f5a7e8904ad8bbb3e15dc6c6c08343b138eea91[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Mar 31 23:06:52 2024 -0400
+
+    feat: develop NewDishes sectional component
+
+[33mcommit 9773ccb67e55ac0bfba93f24427b93dcf9b8e7e0[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Mar 31 22:42:26 2024 -0400
+
+    feat: develop PopularDishes sectional component
+
+[33mcommit bfb41ff963a80ae850ed84bc47250ce7eff9d8f1[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sun Mar 31 09:58:18 2024 -0400
+
+    fix: modify statistics sectional component
+
+[33mcommit 39d47bf001467c45e8d49654447590bdd2354af6[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Sat Mar 30 16:08:31 2024 -0400
+
+    fix: organize homepage related sictional components
+
+[33mcommit 4117de35e47a98d65024bc55f09378b0c550c43b[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Fri Mar 29 03:25:48 2024 -0400
+
+    feat: integration footer and basket source
+
+[33mcommit 7da01d3f1785403693705200e0cb8346c71b12e3[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Fri Mar 29 02:52:31 2024 -0400
+
+    feat: integration footer and basket source
+
+[33mcommit ec11e4d0dda03745f19db9066347a8b46d6f5820[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Fri Mar 29 01:45:44 2024 -0400
+
+    feat: publish otherNavbar header component
+
+[33mcommit 4424eb59fbc16cc1cec9a6d5a2e9bf1293d1266d[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Thu Mar 28 22:49:14 2024 -0400
+
+    fix: modify nomeNavbar header component
+
+[33mcommit b4ec4d1a802f85458563207d54b0c008e4e13a22[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Wed Mar 27 21:19:43 2024 -0400
+
+    fix: homeNavbar menu refactoring
+
+[33mcommit 2f103fb65ef5d1c2734c1ae7ccd747ede65ac10e[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Wed Mar 27 16:47:20 2024 -0400
+
+    fix: modify root index render logic
+
+[33mcommit f53fecc249870f9a001e366f479ef6bdc097e89f[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Wed Mar 27 15:44:39 2024 -0400
+
+    feat: develop header and footer part ONE
+
+[33mcommit b094b8afef10a7d97bda4e32f38b4468c1af874a[m
+Author: rakhimboev <dilshodbekrakhimbaev@gmail.com>
+Date:   Tue Mar 26 22:59:18 2024 -0400
+
+    fix: organize header and foo
